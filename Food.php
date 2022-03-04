@@ -1,6 +1,6 @@
 <?php
 
-class Food extends Type
+class Food
 {
     protected $ingredients;
     protected $food_type;

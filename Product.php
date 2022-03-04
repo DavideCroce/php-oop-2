@@ -20,7 +20,7 @@ class Product
         $this->code = $code;
         $this->brand = $brand;
         $this->type = $type;
-        $this->decription = $description;
+        $this->description = $description;
         $this->quantity = $quantity;
         $this->animal = $animal;
 

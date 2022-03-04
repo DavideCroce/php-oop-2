@@ -1,6 +1,6 @@
 <?php
 
-class Toy extends Type
+class Toy
 {
     protected $color;
     protected $material;
